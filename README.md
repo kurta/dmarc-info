@@ -1,6 +1,6 @@
 # Resources to learn more about DMARC
 
-These references will provide more information to users who want background or deeper understanding related to the topics touched on in my presentation "Fighting Email Abuse with DMARC"
+These references will provide more information to users who want background or deeper understanding related to the topics touched on in my presentation "Fighting Email Abuse with DMARC" (http://www.slideshare.net/kka7/fighting-email-abuse-with-dmarc)
 
 * DMARC.org
   * Resources page http://DMARC.org/resources.html
